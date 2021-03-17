@@ -2,7 +2,10 @@
 
 ### Machines:
 
-1. [BlackField - Windows](/Machines/BlackField_WriteUp.pdf)
+##### Windows:
+1. [BlackField](/Machines/BlackField_WriteUp.pdf)
+
+##### Linux:
 
 
 ### Endgames:
